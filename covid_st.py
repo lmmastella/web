@@ -510,4 +510,4 @@ if st.checkbox('Verificar o dataset comparativo'):
 else:
     st.stop()
 
-# %% UPLOAD
+# %% TESTE TODO
